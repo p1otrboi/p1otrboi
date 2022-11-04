@@ -1,5 +1,6 @@
-### Hi there I'm p1otrboi 👋
+### Hi there my name is Joakim 👋
 
-- I'm currently studying Cloud Development
-- My main language is C#
+- I live in Stockholm, Sweden
+- I'm currently studying to become a Cloud Developer
+
 
