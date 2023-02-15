@@ -3,6 +3,7 @@
 - I live in Stockholm, Sweden
 - I'm currently studying Cloud Development
 - Focus on C#, .NET and Azure
-- My Codewars profile: <a href="https://www.codewars.com/users/p1otrboi"><img src="https://www.codewars.com/users/p1otrboi/badges/micro"></a>
+<br/>
+<a href="https://www.codewars.com/users/p1otrboi"><img src="https://www.codewars.com/users/p1otrboi/badges/micro"></a>
 
 
